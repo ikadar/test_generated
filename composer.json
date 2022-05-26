@@ -1,0 +1,25 @@
+{
+    "name": "ikadar/test_generated",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "Test only",
+    "keywords": ["test"],
+    "homepage": "https://test.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Istvan Kadar",
+            "email": "ikadar@test.com",
+            "homepage": "http://test.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TestApp\\":"src"
+        }
+    }
+}
