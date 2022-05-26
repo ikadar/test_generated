@@ -1,6 +1,6 @@
 <?php
 
-namespace TestApp\Controller;
+namespace TestGenerated\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
